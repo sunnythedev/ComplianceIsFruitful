@@ -15,6 +15,8 @@ yarn-error.log
 .idea/
 .project
 .classpath
+.vscode
+.firebase
 .c9/
 *.launch
 .settings/
