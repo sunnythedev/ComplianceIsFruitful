@@ -1,2 +1,2 @@
 # ComplianceIsFruitful
-Angular 13 with PrimeNG, PrimeIcons and Firebase
+Angular 13 with Material, ngx-MetaFrenzy and Firebase
