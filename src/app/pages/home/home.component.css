@@ -1,0 +1,5 @@
+.avatar-image-baby {
+  background-image: url('https://compliance-is-fruitful.mo.cloudinary.net/avatar100/Baby-Avatar.jpg');
+  background-size: cover;
+}
+.align-right { flex-grow: 0; }
